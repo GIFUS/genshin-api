@@ -1,2 +1,4 @@
-# genshin-api
-An Unofficial Genshin Impact API
+# Genshin-API
+An fan-made Genshin Impact API
+
+⏱Coming soon...
